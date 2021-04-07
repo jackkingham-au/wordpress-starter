@@ -1,0 +1,14 @@
+{
+    "name": "kingh/jkdev-web-design",
+    "authors": [
+        {
+            "name": "Jack Kingham",
+            "email": "kinghamjack12@gmail.com"
+        }
+    ],
+    "autoload": {
+        "classmap": [
+            "app/config/"
+        ]
+    }
+}
