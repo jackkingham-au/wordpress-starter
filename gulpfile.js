@@ -37,7 +37,7 @@ const js = () => {
 const init = () => {
     browsersync.init({
         proxy: {
-            target: 'http://localhost/starter-php/'
+            target: 'http://localhost/starter-wordpress/'
         }
     });
 }
